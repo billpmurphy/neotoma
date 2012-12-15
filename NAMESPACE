@@ -1,0 +1,7 @@
+export(getSampleData,
+        getTaxon,
+        summarizeTaxon,
+        lmTaxon,
+        lmTimeSeries,
+        histTaxon,
+        boxplotTaxon)
